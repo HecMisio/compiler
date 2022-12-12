@@ -1,2 +1,2 @@
 # compiler
-A sample compiler that implemented follow《Implementing a Scripting Engine》
+A sample compiler that implemented according to 《Implementing a Scripting Engine》.
